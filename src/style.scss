@@ -1,0 +1,13 @@
+// Global styles for app
+body{
+  background-color: red;
+  //display: flex;
+  justify-content: center;
+  background-image: url('images/logo.svg');
+  transition: 1s;
+}
+
+
+::placeholder{
+  color: red
+}
